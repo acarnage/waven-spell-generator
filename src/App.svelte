@@ -8,7 +8,7 @@ import SpellPreview from "./SpellPreview.svelte";
 
 <main class="flex flex-col items-center justify-start w-screen p-4 mx-auto text-center ">
   <h1 class="text-6xl font-thin leading-loose text-red-500 uppercase">
-    SpellGena
+    SpellGen
   </h1>
   <div class="flex flex-col justify-center w-3/4 space-y-5 item-center">
     <SpellGenerator></SpellGenerator>
