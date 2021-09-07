@@ -69,7 +69,7 @@ function dl(){
     </div>
 
     <div class="flex flex-col items-center justify-start h-full mr-40 overflow-hidden rounded-xl">
-        <div class="relative flex flex-col items-center justify-start w-full pt-1 pb-4 font-bold text-white uppercase bg-gray-500 rounded-t-xl">
+        <div class="relative flex flex-col items-center justify-start w-full pt-1 pb-4 font-bold text-white uppercase bg-gray-600 rounded-t-xl">
             {spellTitle}
 
             <div class="absolute flex items-center justify-between px-2 text-white bg-gray-900 rounded-2xl -bottom-3">
@@ -93,7 +93,7 @@ function dl(){
             </div>
         </div>
         
-        <div class="flex items-center max-w-xs px-4 pt-4 pb-4 text-lg text-gray-100 bg-gray-700 ">
+        <div class="flex items-center max-w-xs px-4 pt-4 pb-4 text-lg text-gray-100 bg-gray-800 ">
             <div>
                 {@html spellDesc}
             </div>
