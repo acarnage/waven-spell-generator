@@ -56,12 +56,12 @@ function dl(){
 <div id="spell" class="flex items-center justify-center w-full ">
     <div class="relative w-40 h-40 ">
     
-        <div style="background-image: url('./img/sorts/{simage +1}.png')" class="relative z-10 flex items-center justify-center w-full h-full bg-contain bg-blend-color">
+        <div style="background-image: url('img/sorts/{simage +1}.png')" class="relative z-10 flex items-center justify-center w-full h-full bg-contain bg-blend-color">
             <div class="relative z-10 my-{stype}  mix-blend-color h-36 w-36 rounded-xl">
 
             </div>
 
-            <div class="absolute top-0 left-0 z-40 flex items-center justify-center w-10 h-10 text-2xl font-bold text-white bg-center bg-no-repeat bg-contain textb" style="background-image: url('./img/utils/pa.png')">
+            <div class="absolute top-0 left-0 z-40 flex items-center justify-center w-10 h-10 text-2xl font-bold text-white bg-center bg-no-repeat bg-contain textb" style="background-image: url('img/utils/pa.png')">
                 {cost}
             </div>
         </div>
